@@ -41,6 +41,9 @@ npm install react-router-dom react-materialize react-redux redux redux-thunk
 
 
 
+
+Made with Love by:
+
 @CesBear
 
 
