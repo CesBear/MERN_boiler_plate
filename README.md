@@ -36,7 +36,7 @@ npm install mongoose concurrently  express nodemon
 6. redux-thunk
 
 ````
-npm install react-router-dom react-materialize react-redux redux redux-thunk
+npm install react-router-dom react-materialize react-redux redux redux-thunk axios react
 ````
 
 

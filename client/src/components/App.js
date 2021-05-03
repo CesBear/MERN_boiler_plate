@@ -10,6 +10,7 @@ class App extends Component {
           <BrowserRouter>
             <div>
                 <Route exact path="/" />
+                <h1>Test</h1>
             </div>
           </BrowserRouter>
       </div>
